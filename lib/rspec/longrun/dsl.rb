@@ -36,6 +36,9 @@ module RSpec
         def step_failed
         end
 
+        def step_pending
+        end
+        
       end
 
     end
